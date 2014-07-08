@@ -1,0 +1,8 @@
+c:\users\jxp1230\documents\visual studio 2012\Projects\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll.config
+c:\users\jxp1230\documents\visual studio 2012\Projects\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll
+c:\users\jxp1230\documents\visual studio 2012\Projects\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.pdb
+c:\users\jxp1230\documents\visual studio 2012\Projects\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.dll
+c:\users\jxp1230\documents\visual studio 2012\Projects\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.xml
+c:\users\jxp1230\documents\visual studio 2012\Projects\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.csprojResolveAssemblyReference.cache
+c:\users\jxp1230\documents\visual studio 2012\Projects\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.dll
+c:\users\jxp1230\documents\visual studio 2012\Projects\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.pdb

@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsEntityModel", "ProductsEntityModel\ProductsEntityModel.csproj", "{930ADB0C-1285-4837-B80A-0D3F6A1F8D6D}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProductsService", "http://localhost:65460", "{CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{930adb0c-1285-4837-b80a-0d3f6a1f8d6d}|ProductsEntityModel.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65460"
+		Debug.AspNetCompiler.PhysicalPath = "ProductsService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65460\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65460"
+		Release.AspNetCompiler.PhysicalPath = "ProductsService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65460\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "ProductsService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930ADB0C-1285-4837-B80A-0D3F6A1F8D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930ADB0C-1285-4837-B80A-0D3F6A1F8D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930ADB0C-1285-4837-B80A-0D3F6A1F8D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930ADB0C-1285-4837-B80A-0D3F6A1F8D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
