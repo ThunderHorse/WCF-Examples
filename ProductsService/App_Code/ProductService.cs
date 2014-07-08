@@ -145,7 +145,7 @@ namespace Products
                     , "Error: " + ex.StackTrace);
             }
 
-            return true;
+            return false;
         }
     }
 

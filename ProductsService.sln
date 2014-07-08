@@ -26,6 +26,11 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProductsService", "http://l
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsClient", "ProductsClient\ProductsClient.csproj", "{765D3584-3AFA-456F-B0EE-C38415FAF073}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD} = {CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +45,10 @@ Global
 		{CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{CCA12D2B-C520-4E20-8FAF-849F2CEEC4CD}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{765D3584-3AFA-456F-B0EE-C38415FAF073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765D3584-3AFA-456F-B0EE-C38415FAF073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765D3584-3AFA-456F-B0EE-C38415FAF073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765D3584-3AFA-456F-B0EE-C38415FAF073}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

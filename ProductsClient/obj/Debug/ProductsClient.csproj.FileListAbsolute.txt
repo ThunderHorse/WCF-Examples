@@ -1,0 +1,6 @@
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\ProductsService\ProductsClient\bin\Debug\ProductsClient.exe.config
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\ProductsService\ProductsClient\bin\Debug\ProductsClient.exe
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\ProductsService\ProductsClient\bin\Debug\ProductsClient.pdb
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\ProductsService\ProductsClient\obj\Debug\ProductsClient.csprojResolveAssemblyReference.cache
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\ProductsService\ProductsClient\obj\Debug\ProductsClient.exe
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\ProductsService\ProductsClient\obj\Debug\ProductsClient.pdb
